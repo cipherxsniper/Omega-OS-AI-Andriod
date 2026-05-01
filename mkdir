@@ -1,0 +1,2 @@
+mkdir -p ~/OmegaAI/{brain,core,bridge,logs}
+cd ~/OmegaAI
